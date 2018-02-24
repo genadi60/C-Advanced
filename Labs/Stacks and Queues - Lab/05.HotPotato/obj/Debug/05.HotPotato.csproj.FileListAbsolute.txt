@@ -1,0 +1,5 @@
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\05.HotPotato\bin\Debug\05.HotPotato.exe.config
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\05.HotPotato\bin\Debug\05.HotPotato.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\05.HotPotato\bin\Debug\05.HotPotato.pdb
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\05.HotPotato\obj\Debug\05.HotPotato.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\05.HotPotato\obj\Debug\05.HotPotato.pdb

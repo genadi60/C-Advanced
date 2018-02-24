@@ -1,0 +1,9 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\04.MaximalSum\bin\Debug\netcoreapp1.1\04.MaximalSum.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\04.MaximalSum\bin\Debug\netcoreapp1.1\04.MaximalSum.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\04.MaximalSum\bin\Debug\netcoreapp1.1\04.MaximalSum.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\04.MaximalSum\bin\Debug\netcoreapp1.1\04.MaximalSum.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\04.MaximalSum\bin\Debug\netcoreapp1.1\04.MaximalSum.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\04.MaximalSum\obj\Debug\netcoreapp1.1\04.MaximalSum.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\04.MaximalSum\obj\Debug\netcoreapp1.1\04.MaximalSum.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\04.MaximalSum\obj\Debug\netcoreapp1.1\04.MaximalSum.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\04.MaximalSum\obj\Debug\netcoreapp1.1\04.MaximalSum.pdb

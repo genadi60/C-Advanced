@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.pdb

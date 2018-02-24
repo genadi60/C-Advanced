@@ -1,0 +1,5 @@
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.exe.config
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.pdb
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.pdb

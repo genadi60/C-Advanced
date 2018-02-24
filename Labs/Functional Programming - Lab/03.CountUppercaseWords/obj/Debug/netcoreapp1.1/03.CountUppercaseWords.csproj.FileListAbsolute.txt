@@ -1,0 +1,9 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp1.1\03.CountUppercaseWords.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp1.1\03.CountUppercaseWords.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp1.1\03.CountUppercaseWords.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp1.1\03.CountUppercaseWords.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp1.1\03.CountUppercaseWords.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp1.1\03.CountUppercaseWords.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp1.1\03.CountUppercaseWords.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp1.1\03.CountUppercaseWords.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp1.1\03.CountUppercaseWords.pdb

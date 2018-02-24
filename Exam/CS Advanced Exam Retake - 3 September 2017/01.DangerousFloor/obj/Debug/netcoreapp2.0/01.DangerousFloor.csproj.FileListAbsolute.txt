@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\bin\Debug\netcoreapp2.0\01.DangerousFloor.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\bin\Debug\netcoreapp2.0\01.DangerousFloor.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\bin\Debug\netcoreapp2.0\01.DangerousFloor.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\bin\Debug\netcoreapp2.0\01.DangerousFloor.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\bin\Debug\netcoreapp2.0\01.DangerousFloor.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.pdb

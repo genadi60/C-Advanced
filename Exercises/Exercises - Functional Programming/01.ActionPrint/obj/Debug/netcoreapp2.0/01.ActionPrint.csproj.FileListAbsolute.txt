@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\bin\Debug\netcoreapp2.0\01.ActionPrint.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\bin\Debug\netcoreapp2.0\01.ActionPrint.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\bin\Debug\netcoreapp2.0\01.ActionPrint.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\bin\Debug\netcoreapp2.0\01.ActionPrint.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\bin\Debug\netcoreapp2.0\01.ActionPrint.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\obj\Debug\netcoreapp2.0\01.ActionPrint.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\obj\Debug\netcoreapp2.0\01.ActionPrint.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\obj\Debug\netcoreapp2.0\01.ActionPrint.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\obj\Debug\netcoreapp2.0\01.ActionPrint.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\obj\Debug\netcoreapp2.0\01.ActionPrint.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\01.ActionPrint\obj\Debug\netcoreapp2.0\01.ActionPrint.pdb

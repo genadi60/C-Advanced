@@ -1,0 +1,9 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\07.LegoBlocks\bin\Debug\netcoreapp1.1\07.LegoBlocks.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\07.LegoBlocks\bin\Debug\netcoreapp1.1\07.LegoBlocks.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\07.LegoBlocks\bin\Debug\netcoreapp1.1\07.LegoBlocks.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\07.LegoBlocks\bin\Debug\netcoreapp1.1\07.LegoBlocks.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\07.LegoBlocks\bin\Debug\netcoreapp1.1\07.LegoBlocks.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\07.LegoBlocks\obj\Debug\netcoreapp1.1\07.LegoBlocks.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\07.LegoBlocks\obj\Debug\netcoreapp1.1\07.LegoBlocks.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\07.LegoBlocks\obj\Debug\netcoreapp1.1\07.LegoBlocks.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\07.LegoBlocks\obj\Debug\netcoreapp1.1\07.LegoBlocks.pdb

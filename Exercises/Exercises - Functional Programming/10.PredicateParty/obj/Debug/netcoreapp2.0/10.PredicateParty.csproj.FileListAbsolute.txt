@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\bin\Debug\netcoreapp2.0\10.PredicateParty.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\bin\Debug\netcoreapp2.0\10.PredicateParty.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\bin\Debug\netcoreapp2.0\10.PredicateParty.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\bin\Debug\netcoreapp2.0\10.PredicateParty.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\bin\Debug\netcoreapp2.0\10.PredicateParty.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.pdb

@@ -1,0 +1,5 @@
+D:\Projects\VS Projects\C# Advanced\04. Matching Brackets\bin\Debug\_04.Matching_Brackets.exe.config
+D:\Projects\VS Projects\C# Advanced\04. Matching Brackets\bin\Debug\_04.Matching_Brackets.exe
+D:\Projects\VS Projects\C# Advanced\04. Matching Brackets\bin\Debug\_04.Matching_Brackets.pdb
+D:\Projects\VS Projects\C# Advanced\04. Matching Brackets\obj\Debug\_04.Matching_Brackets.exe
+D:\Projects\VS Projects\C# Advanced\04. Matching Brackets\obj\Debug\_04.Matching_Brackets.pdb

@@ -1,0 +1,9 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\03.SquaresInMatrix\bin\Debug\netcoreapp1.1\03.SquaresInMatrix.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\03.SquaresInMatrix\bin\Debug\netcoreapp1.1\03.SquaresInMatrix.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\03.SquaresInMatrix\bin\Debug\netcoreapp1.1\03.SquaresInMatrix.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\03.SquaresInMatrix\bin\Debug\netcoreapp1.1\03.SquaresInMatrix.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\03.SquaresInMatrix\bin\Debug\netcoreapp1.1\03.SquaresInMatrix.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\03.SquaresInMatrix\obj\Debug\netcoreapp1.1\03.SquaresInMatrix.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\03.SquaresInMatrix\obj\Debug\netcoreapp1.1\03.SquaresInMatrix.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\03.SquaresInMatrix\obj\Debug\netcoreapp1.1\03.SquaresInMatrix.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\03.SquaresInMatrix\obj\Debug\netcoreapp1.1\03.SquaresInMatrix.pdb

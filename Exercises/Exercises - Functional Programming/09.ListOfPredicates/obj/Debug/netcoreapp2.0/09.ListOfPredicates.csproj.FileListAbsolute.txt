@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.pdb

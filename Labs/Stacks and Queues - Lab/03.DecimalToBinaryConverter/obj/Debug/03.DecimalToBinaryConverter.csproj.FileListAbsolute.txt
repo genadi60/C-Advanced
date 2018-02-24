@@ -1,0 +1,5 @@
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe.config
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.pdb
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.pdb

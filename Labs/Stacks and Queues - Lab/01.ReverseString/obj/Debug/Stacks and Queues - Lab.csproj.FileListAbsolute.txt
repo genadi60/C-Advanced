@@ -1,0 +1,6 @@
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\bin\Debug\Stacks and Queues - Lab.exe.config
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\bin\Debug\Stacks and Queues - Lab.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\bin\Debug\Stacks and Queues - Lab.pdb
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\obj\Debug\Stacks and Queues - Lab.csprojResolveAssemblyReference.cache
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\obj\Debug\Stacks and Queues - Lab.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Lab\obj\Debug\Stacks and Queues - Lab.pdb

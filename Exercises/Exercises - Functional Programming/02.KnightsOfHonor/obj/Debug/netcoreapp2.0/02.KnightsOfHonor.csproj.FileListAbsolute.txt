@@ -1,0 +1,10 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.pdb

@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\bin\Debug\netcoreapp2.0\03.CustomMinFunction.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\bin\Debug\netcoreapp2.0\03.CustomMinFunction.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\bin\Debug\netcoreapp2.0\03.CustomMinFunction.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\bin\Debug\netcoreapp2.0\03.CustomMinFunction.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\bin\Debug\netcoreapp2.0\03.CustomMinFunction.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.pdb

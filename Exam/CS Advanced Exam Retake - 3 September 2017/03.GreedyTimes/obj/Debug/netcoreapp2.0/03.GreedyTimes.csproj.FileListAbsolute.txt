@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\bin\Debug\netcoreapp2.0\03.GreedyTimes.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\bin\Debug\netcoreapp2.0\03.GreedyTimes.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\bin\Debug\netcoreapp2.0\03.GreedyTimes.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\bin\Debug\netcoreapp2.0\03.GreedyTimes.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\bin\Debug\netcoreapp2.0\03.GreedyTimes.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.pdb

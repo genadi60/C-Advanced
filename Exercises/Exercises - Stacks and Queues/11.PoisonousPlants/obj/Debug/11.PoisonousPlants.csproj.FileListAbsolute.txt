@@ -1,0 +1,12 @@
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe.config
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.pdb
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.csprojResolveAssemblyReference.cache
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe.config
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.exe
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.pdb

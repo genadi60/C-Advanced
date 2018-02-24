@@ -1,0 +1,6 @@
+D:\Projects\VS Projects\C# Advanced\2.SimpleCalculator\bin\Debug\2.SimpleCalculator.exe.config
+D:\Projects\VS Projects\C# Advanced\2.SimpleCalculator\bin\Debug\2.SimpleCalculator.exe
+D:\Projects\VS Projects\C# Advanced\2.SimpleCalculator\bin\Debug\2.SimpleCalculator.pdb
+D:\Projects\VS Projects\C# Advanced\2.SimpleCalculator\obj\Debug\2.SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\Projects\VS Projects\C# Advanced\2.SimpleCalculator\obj\Debug\2.SimpleCalculator.exe
+D:\Projects\VS Projects\C# Advanced\2.SimpleCalculator\obj\Debug\2.SimpleCalculator.pdb

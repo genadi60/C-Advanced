@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.pdb

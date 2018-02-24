@@ -1,0 +1,11 @@
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.deps.json
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.runtimeconfig.json
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.runtimeconfig.dev.json
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.dll
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.pdb
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.csprojResolveAssemblyReference.cache
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.AssemblyInfo.cs
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.dll
+D:\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.pdb

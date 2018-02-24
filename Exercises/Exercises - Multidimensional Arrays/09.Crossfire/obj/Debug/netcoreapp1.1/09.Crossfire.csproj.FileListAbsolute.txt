@@ -1,0 +1,9 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\09.Crossfire\bin\Debug\netcoreapp1.1\09.Crossfire.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\09.Crossfire\bin\Debug\netcoreapp1.1\09.Crossfire.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\09.Crossfire\bin\Debug\netcoreapp1.1\09.Crossfire.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\09.Crossfire\bin\Debug\netcoreapp1.1\09.Crossfire.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\09.Crossfire\bin\Debug\netcoreapp1.1\09.Crossfire.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\09.Crossfire\obj\Debug\netcoreapp1.1\09.Crossfire.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\09.Crossfire\obj\Debug\netcoreapp1.1\09.Crossfire.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\09.Crossfire\obj\Debug\netcoreapp1.1\09.Crossfire.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\09.Crossfire\obj\Debug\netcoreapp1.1\09.Crossfire.pdb

@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\bin\Debug\netcoreapp2.0\04.FindEvensOrOdds.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\bin\Debug\netcoreapp2.0\04.FindEvensOrOdds.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\bin\Debug\netcoreapp2.0\04.FindEvensOrOdds.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\bin\Debug\netcoreapp2.0\04.FindEvensOrOdds.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\bin\Debug\netcoreapp2.0\04.FindEvensOrOdds.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.0\04.FindEvensOrOdds.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.0\04.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.0\04.FindEvensOrOdds.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.0\04.FindEvensOrOdds.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.0\04.FindEvensOrOdds.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.0\04.FindEvensOrOdds.pdb

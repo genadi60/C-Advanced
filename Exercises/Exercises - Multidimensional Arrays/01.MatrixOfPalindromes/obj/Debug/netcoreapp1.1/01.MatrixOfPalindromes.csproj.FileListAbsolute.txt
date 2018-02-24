@@ -1,0 +1,9 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\01.MatrixOfPalindromes\bin\Debug\netcoreapp1.1\01.MatrixOfPalindromes.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\01.MatrixOfPalindromes\bin\Debug\netcoreapp1.1\01.MatrixOfPalindromes.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\01.MatrixOfPalindromes\bin\Debug\netcoreapp1.1\01.MatrixOfPalindromes.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\01.MatrixOfPalindromes\bin\Debug\netcoreapp1.1\01.MatrixOfPalindromes.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\01.MatrixOfPalindromes\bin\Debug\netcoreapp1.1\01.MatrixOfPalindromes.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\01.MatrixOfPalindromes\obj\Debug\netcoreapp1.1\01.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\01.MatrixOfPalindromes\obj\Debug\netcoreapp1.1\01.MatrixOfPalindromes.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\01.MatrixOfPalindromes\obj\Debug\netcoreapp1.1\01.MatrixOfPalindromes.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\01.MatrixOfPalindromes\obj\Debug\netcoreapp1.1\01.MatrixOfPalindromes.pdb

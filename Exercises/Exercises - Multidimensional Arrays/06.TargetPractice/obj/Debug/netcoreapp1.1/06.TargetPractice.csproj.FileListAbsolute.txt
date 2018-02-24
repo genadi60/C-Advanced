@@ -1,0 +1,9 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\06.TargetPractice\bin\Debug\netcoreapp1.1\06.TargetPractice.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\06.TargetPractice\bin\Debug\netcoreapp1.1\06.TargetPractice.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\06.TargetPractice\bin\Debug\netcoreapp1.1\06.TargetPractice.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\06.TargetPractice\bin\Debug\netcoreapp1.1\06.TargetPractice.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\06.TargetPractice\bin\Debug\netcoreapp1.1\06.TargetPractice.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\06.TargetPractice\obj\Debug\netcoreapp1.1\06.TargetPractice.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\06.TargetPractice\obj\Debug\netcoreapp1.1\06.TargetPractice.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\06.TargetPractice\obj\Debug\netcoreapp1.1\06.TargetPractice.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\06.TargetPractice\obj\Debug\netcoreapp1.1\06.TargetPractice.pdb

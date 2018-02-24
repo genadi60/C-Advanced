@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\bin\Debug\netcoreapp2.0\01.Regeh.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\bin\Debug\netcoreapp2.0\01.Regeh.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\bin\Debug\netcoreapp2.0\01.Regeh.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\bin\Debug\netcoreapp2.0\01.Regeh.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\bin\Debug\netcoreapp2.0\01.Regeh.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.pdb

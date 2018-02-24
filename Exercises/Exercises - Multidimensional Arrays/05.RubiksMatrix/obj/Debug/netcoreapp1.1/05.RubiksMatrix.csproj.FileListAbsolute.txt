@@ -1,0 +1,9 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\05.RubiksMatrix\bin\Debug\netcoreapp1.1\05.RubiksMatrix.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\05.RubiksMatrix\bin\Debug\netcoreapp1.1\05.RubiksMatrix.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\05.RubiksMatrix\bin\Debug\netcoreapp1.1\05.RubiksMatrix.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\05.RubiksMatrix\bin\Debug\netcoreapp1.1\05.RubiksMatrix.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\05.RubiksMatrix\bin\Debug\netcoreapp1.1\05.RubiksMatrix.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\05.RubiksMatrix\obj\Debug\netcoreapp1.1\05.RubiksMatrix.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\05.RubiksMatrix\obj\Debug\netcoreapp1.1\05.RubiksMatrix.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\05.RubiksMatrix\obj\Debug\netcoreapp1.1\05.RubiksMatrix.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\05.RubiksMatrix\obj\Debug\netcoreapp1.1\05.RubiksMatrix.pdb

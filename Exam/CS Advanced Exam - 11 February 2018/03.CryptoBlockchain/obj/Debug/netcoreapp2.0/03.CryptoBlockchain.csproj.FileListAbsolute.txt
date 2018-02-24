@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\bin\Debug\netcoreapp2.0\03.CryptoBlockchain.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\bin\Debug\netcoreapp2.0\03.CryptoBlockchain.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\bin\Debug\netcoreapp2.0\03.CryptoBlockchain.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\bin\Debug\netcoreapp2.0\03.CryptoBlockchain.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\bin\Debug\netcoreapp2.0\03.CryptoBlockchain.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exam\CS Advanced Exam - 11 February 2018\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.pdb

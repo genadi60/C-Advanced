@@ -1,0 +1,5 @@
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.exe.config
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.pdb
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.exe
+D:\Projects\VS Projects\C# Advanced\Stacks and Queues - Exercise\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.pdb

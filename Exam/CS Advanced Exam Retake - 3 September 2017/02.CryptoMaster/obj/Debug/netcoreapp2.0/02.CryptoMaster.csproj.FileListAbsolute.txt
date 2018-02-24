@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\bin\Debug\netcoreapp2.0\02.CryptoMaster.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\bin\Debug\netcoreapp2.0\02.CryptoMaster.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\bin\Debug\netcoreapp2.0\02.CryptoMaster.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\bin\Debug\netcoreapp2.0\02.CryptoMaster.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\bin\Debug\netcoreapp2.0\02.CryptoMaster.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam Retake - 3 September 2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.pdb

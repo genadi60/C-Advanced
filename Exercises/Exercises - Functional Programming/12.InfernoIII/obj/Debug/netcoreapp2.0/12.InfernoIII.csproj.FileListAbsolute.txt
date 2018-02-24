@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\bin\Debug\netcoreapp2.0\12.InfernoIII.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\bin\Debug\netcoreapp2.0\12.InfernoIII.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\bin\Debug\netcoreapp2.0\12.InfernoIII.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\bin\Debug\netcoreapp2.0\12.InfernoIII.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\bin\Debug\netcoreapp2.0\12.InfernoIII.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.pdb

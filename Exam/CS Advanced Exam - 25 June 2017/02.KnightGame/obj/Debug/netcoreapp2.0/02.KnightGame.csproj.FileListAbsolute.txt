@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\CS Advanced Exam - 25 June 2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.pdb

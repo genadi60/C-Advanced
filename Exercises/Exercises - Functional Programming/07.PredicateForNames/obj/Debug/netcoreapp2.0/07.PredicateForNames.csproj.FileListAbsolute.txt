@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.pdb

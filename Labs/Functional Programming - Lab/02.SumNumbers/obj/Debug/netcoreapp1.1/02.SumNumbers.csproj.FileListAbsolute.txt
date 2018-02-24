@@ -1,0 +1,9 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\02.SumNumbers\bin\Debug\netcoreapp1.1\02.SumNumbers.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\02.SumNumbers\bin\Debug\netcoreapp1.1\02.SumNumbers.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\02.SumNumbers\bin\Debug\netcoreapp1.1\02.SumNumbers.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\02.SumNumbers\bin\Debug\netcoreapp1.1\02.SumNumbers.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\02.SumNumbers\bin\Debug\netcoreapp1.1\02.SumNumbers.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\02.SumNumbers\obj\Debug\netcoreapp1.1\02.SumNumbers.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\02.SumNumbers\obj\Debug\netcoreapp1.1\02.SumNumbers.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\02.SumNumbers\obj\Debug\netcoreapp1.1\02.SumNumbers.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Functional Programming - Lab\02.SumNumbers\obj\Debug\netcoreapp1.1\02.SumNumbers.pdb

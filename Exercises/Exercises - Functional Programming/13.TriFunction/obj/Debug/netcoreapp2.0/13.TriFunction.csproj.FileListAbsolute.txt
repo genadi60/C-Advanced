@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\bin\Debug\netcoreapp2.0\13.TriFunction.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\bin\Debug\netcoreapp2.0\13.TriFunction.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\bin\Debug\netcoreapp2.0\13.TriFunction.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\bin\Debug\netcoreapp2.0\13.TriFunction.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\bin\Debug\netcoreapp2.0\13.TriFunction.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.pdb

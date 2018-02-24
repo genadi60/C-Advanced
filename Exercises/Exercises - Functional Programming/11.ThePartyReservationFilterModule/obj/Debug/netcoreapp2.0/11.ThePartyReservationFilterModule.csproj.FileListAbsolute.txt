@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Exercises - Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.pdb

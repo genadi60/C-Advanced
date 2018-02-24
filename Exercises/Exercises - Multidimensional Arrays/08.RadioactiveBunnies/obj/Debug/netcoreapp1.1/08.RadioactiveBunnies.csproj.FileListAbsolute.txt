@@ -1,0 +1,9 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\08.RadioactiveBunnies\bin\Debug\netcoreapp1.1\08.RadioactiveBunnies.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\08.RadioactiveBunnies\bin\Debug\netcoreapp1.1\08.RadioactiveBunnies.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\08.RadioactiveBunnies\bin\Debug\netcoreapp1.1\08.RadioactiveBunnies.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\08.RadioactiveBunnies\bin\Debug\netcoreapp1.1\08.RadioactiveBunnies.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\08.RadioactiveBunnies\bin\Debug\netcoreapp1.1\08.RadioactiveBunnies.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\08.RadioactiveBunnies\obj\Debug\netcoreapp1.1\08.RadioactiveBunnies.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\08.RadioactiveBunnies\obj\Debug\netcoreapp1.1\08.RadioactiveBunnies.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\08.RadioactiveBunnies\obj\Debug\netcoreapp1.1\08.RadioactiveBunnies.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C# Advanced\Multidimensional Arrays - Exercise\08.RadioactiveBunnies\obj\Debug\netcoreapp1.1\08.RadioactiveBunnies.pdb
